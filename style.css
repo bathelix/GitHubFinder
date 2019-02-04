@@ -1,0 +1,11 @@
+/*.navbar-brand {
+    background-color: blue;
+}*/
+
+.navbar-inverse {
+    background-color: rgb(49, 49, 184);
+    border-color:black;
+    border-width: 2px;
+    font-size: 30px;
+    
+}
